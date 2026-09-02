@@ -1,0 +1,16 @@
+[
+  {
+    "name": "brama",
+    "email": "brama",
+    "phone": "1234567890",
+    "role": "ADMIN",
+    "status": true
+  },
+  {
+    "name": "wedsf",
+    "email": "wedf",
+    "phone": "123456",
+    "role": "USER",
+    "status": false
+  }
+]
