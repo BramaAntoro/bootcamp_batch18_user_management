@@ -2,6 +2,7 @@ const fs = require("fs");
 const readline = require("readline");
 const cekName = require("./cek-name");
 const cekRole = require("./cek-role");
+const CekInputStatus = require("./cek-input-status");
 
 const rl = readline.createInterface({
   input: process.stdin,
@@ -23,6 +24,11 @@ rl.question("Name: ", (name) => {
           return;
         }
         rl.question("Status : ", (statusInput) => {
+          const isValidStatus = CekInputStatus(statusInput);
+          if (!isValidStatus) {
+            rl.close();
+            return;
+          }
           const status = statusInput.trim().toLowerCase() === "true";
           const data = fs.readFileSync("user.json", "utf-8");
           const parsedUsers = JSON.parse(data);

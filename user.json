@@ -12,5 +12,54 @@
     "phone": "123456",
     "role": "USER",
     "status": false
+  },
+  {
+    "name": "wsdf",
+    "email": "qwdf",
+    "phone": "qwe",
+    "role": "ADMIN",
+    "status": false
+  },
+  {
+    "name": "sad",
+    "email": "asd",
+    "phone": "12345",
+    "role": "ADMIN",
+    "status": true
+  },
+  {
+    "name": "wqsdcx",
+    "email": "wdfv",
+    "phone": "wsd",
+    "role": "ADMIN",
+    "status": true
+  },
+  {
+    "name": "wsdcx",
+    "email": "wsdc",
+    "phone": "wqdsc",
+    "role": "ADMIN",
+    "status": true
+  },
+  {
+    "name": "wqsdc",
+    "email": "qwd",
+    "phone": "wed",
+    "role": "ADMIN",
+    "status": false
+  },
+  {
+    "name": "qwsdc",
+    "email": "wqds",
+    "phone": "wqd",
+    "role": "ADMIN",
+    "status": false
+  },
+  {
+    "name": "wqedf",
+    "email": "wedff",
+    "phone": "wds",
+    "role": "ADMIN",
+    "status": false
   }
 ]
