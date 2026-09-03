@@ -1,0 +1,25 @@
+{
+  "name": "bootcamp_batch18_user_management",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/BramaAntoro/bootcamp_batch18_user_management#readme",
+  "bugs": {
+    "url": "https://github.com/BramaAntoro/bootcamp_batch18_user_management/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BramaAntoro/bootcamp_batch18_user_management.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "validator": "^13.15.35"
+  }
+}

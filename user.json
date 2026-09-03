@@ -1,65 +1,37 @@
 [
   {
-    "name": "brama",
-    "email": "brama",
-    "phone": "1234567890",
-    "role": "ADMIN",
+    "name": "ghj",
+    "email": "thn@gmail.com",
+    "phone": "081234",
+    "roleInput": "ADMIN",
     "status": true
   },
   {
-    "name": "wedsf",
-    "email": "wedf",
-    "phone": "123456",
-    "role": "USER",
+    "name": "opwsidjhfb",
+    "email": "osdjfh@gmail.com",
+    "phone": "0987",
+    "roleInput": "USER",
     "status": false
   },
   {
-    "name": "wsdf",
-    "email": "qwdf",
-    "phone": "qwe",
-    "role": "ADMIN",
+    "name": "ghn",
+    "email": "owejk@gmai.com",
+    "phone": "0987",
+    "roleInput": "ADMIN",
     "status": false
   },
   {
-    "name": "sad",
-    "email": "asd",
-    "phone": "12345",
-    "role": "ADMIN",
-    "status": true
-  },
-  {
-    "name": "wqsdcx",
-    "email": "wdfv",
-    "phone": "wsd",
-    "role": "ADMIN",
-    "status": true
-  },
-  {
-    "name": "wsdcx",
-    "email": "wsdc",
-    "phone": "wqdsc",
-    "role": "ADMIN",
-    "status": true
-  },
-  {
-    "name": "wqsdc",
-    "email": "qwd",
-    "phone": "wed",
-    "role": "ADMIN",
+    "name": "pqwoidjeh",
+    "email": "woediejfhb@gmail.com",
+    "phone": "08123456",
+    "roleInput": "ADMIN",
     "status": false
   },
   {
-    "name": "qwsdc",
-    "email": "wqds",
-    "phone": "wqd",
-    "role": "ADMIN",
-    "status": false
-  },
-  {
-    "name": "wqedf",
-    "email": "wedff",
-    "phone": "wds",
-    "role": "ADMIN",
+    "name": "qwedf",
+    "email": "qwdfv@gmail.com",
+    "phone": "081234",
+    "roleInput": "ADMIN",
     "status": false
   }
 ]
